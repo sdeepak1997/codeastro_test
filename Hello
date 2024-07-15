@@ -1,4 +1,8 @@
 Hello
 Hi Again
 Making changes remotely
+<<<<<<< HEAD
 Checking for conflicts
+=======
+Remotely making a different change
+>>>>>>> 2b8702c1b50778214f0d9f7e5bd71099a97f704c
